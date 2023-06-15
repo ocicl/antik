@@ -5,8 +5,5 @@ Antik provides a foundation for scientific and engineering computation in Common
 |---------+----------------------------------------------------------------------------------------------|
 | source  | file:https://gitlab.common-lisp.net/antik/antik/-/archive/QL-2019-02/antik-QL-2019-02.tar.gz |
 | version | QL-2019-02                                                                                   |
-| systems | foreign-array
+| systems | antik foreign-array physical-dimension science-data                                          |
 |---------+----------------------------------------------------------------------------------------------|
-
-; Eventually, these are the systems...
-; antik foreign-array physical-dimension science-data                                          |
