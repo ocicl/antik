@@ -1,0 +1,9 @@
+* antik
+
+Antik provides a foundation for scientific and engineering computation in Common Lisp.
+
+|---------+---------------------------------------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/antik/antik/-/archive/QL-2019-02/antik-QL-2019-02.tar.gz |
+| version | QL-2019-02                                                                                  |
+| systems | antik foreign-array physical-dimension science-data                                         |
+|---------+---------------------------------------------------------------------------------------------|
